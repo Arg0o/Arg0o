@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arg0o
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning python
 - 💞️ I’m not looking to collaborate 
 - 📫 How to reach me? idk lol
 
